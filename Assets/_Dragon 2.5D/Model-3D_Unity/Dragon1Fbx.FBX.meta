@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 655b49d2577942d459a3ad1b6c0cdde2
+timeCreated: 1519661311
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dragon
+    100002: //RootNode
+    100004: Dragon_Arms
+    100006: Dragon_Asa
+    100008: Dragon_Body
+    100010: Dragon_Dentes
+    100012: Dragon_Eyes
+    100014: English Dragon
+    100016: English DragonHeadBone001
+    100018: English DragonLArm1
+    100020: English DragonLArm2
+    100022: English DragonLArmDigit01
+    100024: English DragonLArmDigit02
+    100026: English DragonLArmDigit03
+    100028: English DragonLArmDigit41
+    100030: English DragonLArmDigit42
+    100032: English DragonLArmDigit43
+    100034: English DragonLArmDigit44
+    100036: English DragonLArmDigit51
+    100038: English DragonLArmDigit52
+    100040: English DragonLArmDigit53
+    100042: English DragonLArmDigit54
+    100044: English DragonLArmDigit61
+    100046: English DragonLArmDigit62
+    100048: English DragonLArmDigit63
+    100050: English DragonLArmDigit64
+    100052: English DragonLLeg1
+    100054: English DragonLLeg1 1
+    100056: English DragonLLeg2
+    100058: English DragonLLeg2 1
+    100060: English DragonLLeg3
+    100062: English DragonLLeg3 1
+    100064: English DragonLLegPalm
+    100066: English DragonRArm1
+    100068: English DragonRArm2
+    100070: English DragonRArmDigit01
+    100072: English DragonRArmDigit02
+    100074: English DragonRArmDigit03
+    100076: English DragonRArmDigit41
+    100078: English DragonRArmDigit42
+    100080: English DragonRArmDigit43
+    100082: English DragonRArmDigit44
+    100084: English DragonRArmDigit51
+    100086: English DragonRArmDigit52
+    100088: English DragonRArmDigit53
+    100090: English DragonRArmDigit54
+    100092: English DragonRArmDigit61
+    100094: English DragonRArmDigit62
+    100096: English DragonRArmDigit63
+    100098: English DragonRArmDigit64
+    100100: English DragonRibcageBone001
+    100102: English DragonRibcageBone002
+    100104: English DragonRibcageBone003
+    100106: English DragonRibcageBone004
+    100108: English DragonRibcageBone005
+    100110: English DragonRibcageBone006
+    100112: English DragonRLeg1
+    100114: English DragonRLeg1 1
+    100116: English DragonRLeg2
+    100118: English DragonRLeg2 1
+    100120: English DragonRLeg3
+    100122: English DragonRLeg3 1
+    100124: English DragonSpine1
+    100126: English DragonSpine1 1
+    100128: English DragonSpine2
+    100130: English DragonSpine2 1
+    100132: English DragonSpine3
+    100134: English DragonTail1
+    100136: English DragonTail2
+    100138: English DragonTail3
+    100140: English DragonTail4
+    100142: English DragonTail5
+    100144: English DragonTail6
+    100146: English DragonTail7
+    100148: English DragonTail8
+    100150: English DragonTail9
+    100152: IKTarget001
+    100154: IKTarget002
+    100156: IKTarget003
+    100158: IKTarget004
+    100160: Object001
+    100162: Object002
+    100164: Object003
+    100166: Object004
+    100168: Object011
+    100170: Object013
+    100172: Object014
+    100174: Object015
+    100176: Object016
+    100178: Object017
+    100180: Object018
+    100182: Object019
+    400000: Dragon
+    400002: //RootNode
+    400004: Dragon_Arms
+    400006: Dragon_Asa
+    400008: Dragon_Body
+    400010: Dragon_Dentes
+    400012: Dragon_Eyes
+    400014: English Dragon
+    400016: English DragonHeadBone001
+    400018: English DragonLArm1
+    400020: English DragonLArm2
+    400022: English DragonLArmDigit01
+    400024: English DragonLArmDigit02
+    400026: English DragonLArmDigit03
+    400028: English DragonLArmDigit41
+    400030: English DragonLArmDigit42
+    400032: English DragonLArmDigit43
+    400034: English DragonLArmDigit44
+    400036: English DragonLArmDigit51
+    400038: English DragonLArmDigit52
+    400040: English DragonLArmDigit53
+    400042: English DragonLArmDigit54
+    400044: English DragonLArmDigit61
+    400046: English DragonLArmDigit62
+    400048: English DragonLArmDigit63
+    400050: English DragonLArmDigit64
+    400052: English DragonLLeg1
+    400054: English DragonLLeg1 1
+    400056: English DragonLLeg2
+    400058: English DragonLLeg2 1
+    400060: English DragonLLeg3
+    400062: English DragonLLeg3 1
+    400064: English DragonLLegPalm
+    400066: English DragonRArm1
+    400068: English DragonRArm2
+    400070: English DragonRArmDigit01
+    400072: English DragonRArmDigit02
+    400074: English DragonRArmDigit03
+    400076: English DragonRArmDigit41
+    400078: English DragonRArmDigit42
+    400080: English DragonRArmDigit43
+    400082: English DragonRArmDigit44
+    400084: English DragonRArmDigit51
+    400086: English DragonRArmDigit52
+    400088: English DragonRArmDigit53
+    400090: English DragonRArmDigit54
+    400092: English DragonRArmDigit61
+    400094: English DragonRArmDigit62
+    400096: English DragonRArmDigit63
+    400098: English DragonRArmDigit64
+    400100: English DragonRibcageBone001
+    400102: English DragonRibcageBone002
+    400104: English DragonRibcageBone003
+    400106: English DragonRibcageBone004
+    400108: English DragonRibcageBone005
+    400110: English DragonRibcageBone006
+    400112: English DragonRLeg1
+    400114: English DragonRLeg1 1
+    400116: English DragonRLeg2
+    400118: English DragonRLeg2 1
+    400120: English DragonRLeg3
+    400122: English DragonRLeg3 1
+    400124: English DragonSpine1
+    400126: English DragonSpine1 1
+    400128: English DragonSpine2
+    400130: English DragonSpine2 1
+    400132: English DragonSpine3
+    400134: English DragonTail1
+    400136: English DragonTail2
+    400138: English DragonTail3
+    400140: English DragonTail4
+    400142: English DragonTail5
+    400144: English DragonTail6
+    400146: English DragonTail7
+    400148: English DragonTail8
+    400150: English DragonTail9
+    400152: IKTarget001
+    400154: IKTarget002
+    400156: IKTarget003
+    400158: IKTarget004
+    400160: Object001
+    400162: Object002
+    400164: Object003
+    400166: Object004
+    400168: Object011
+    400170: Object013
+    400172: Object014
+    400174: Object015
+    400176: Object016
+    400178: Object017
+    400180: Object018
+    400182: Object019
+    2100000: 01 - Default
+    4300000: Dragon_Body
+    4300002: Dragon_Eyes
+    4300004: Dragon_Dentes
+    4300006: Dragon_Arms
+    4300008: Dragon_Asa
+    7400000: StartFlyDragon
+    7400002: FlyingDragon
+    7400004: FloatDragon
+    7400006: DragonFlames
+    9500000: //RootNode
+    13700000: Dragon_Arms
+    13700002: Dragon_Asa
+    13700004: Dragon_Body
+    13700006: Dragon_Dentes
+    13700008: Dragon_Eyes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: StartFlyDragon
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyingDragon
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FloatDragon
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DragonFlames
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
